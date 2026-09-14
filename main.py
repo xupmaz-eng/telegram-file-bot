@@ -11,8 +11,8 @@ from telegram.ext import (
 )
 
 # ================= CẤU HÌNH =================
-BOT_TOKEN = "ĐIỀN_TOKEN_BOT_CỦA_BẠN"
-CHANNEL_ID = -1001234567890  # ĐIỀN_ID_CHANNEL_CỦA_BẠN
+BOT_TOKEN = "8941322788:AAHJKgIgAH78GnLqf0qEiy0AVF-oCWpqA1M"
+CHANNEL_ID = -1007763690474  # Đã cập nhật ID kênh riêng tư của bạn
 DEFAULT_LANG = "en"  # "en" cho Tiếng Anh, "zh" cho Tiếng Trung
 # ============================================
 
@@ -83,4 +83,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-  
+    
