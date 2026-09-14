@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ================= CẤU HÌNH =================
-BOT_TOKEN = "8941322788:AAHJKgIgAH78GnLqf0qEiy0AVF-oCWpqA1M"  # Thay bằng Token từ BotFather
+BOT_TOKEN = "8941322788:AAGn_DWqGXelA4FxTQDmJWRBTF02oikaSDQ"  # Thay bằng Token từ BotFather
 CHANNEL_ID = -1007763690474             # ID Channel của bạn
 DEFAULT_LANG = "en"                     # "en" cho Tiếng Anh, "zh" cho Tiếng Trung
 # ============================================
